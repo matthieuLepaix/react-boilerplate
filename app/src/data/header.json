@@ -1,0 +1,19 @@
+{
+    "navs": [{
+            "to": "/",
+            "key": "home"
+        },
+        {
+            "to": "/accomodations",
+            "key": "accomodations"
+        },
+        {
+            "to": "/news",
+            "key": "news"
+        },
+        {
+            "to": "/about",
+            "key": "about"
+        }
+    ]
+}
